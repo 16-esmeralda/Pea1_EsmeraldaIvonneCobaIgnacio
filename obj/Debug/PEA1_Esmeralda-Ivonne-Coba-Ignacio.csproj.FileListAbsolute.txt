@@ -1,0 +1,12 @@
+C:\Users\jairo\OneDrive\Escritorio\PEA1_Esmeralda-Ivonne-Coba-Ignacio\bin\Debug\PEA1_Esmeralda-Ivonne-Coba-Ignacio.exe.config
+C:\Users\jairo\OneDrive\Escritorio\PEA1_Esmeralda-Ivonne-Coba-Ignacio\bin\Debug\PEA1_Esmeralda-Ivonne-Coba-Ignacio.exe
+C:\Users\jairo\OneDrive\Escritorio\PEA1_Esmeralda-Ivonne-Coba-Ignacio\bin\Debug\PEA1_Esmeralda-Ivonne-Coba-Ignacio.pdb
+C:\Users\jairo\OneDrive\Escritorio\PEA1_Esmeralda-Ivonne-Coba-Ignacio\obj\Debug\PEA1_Esmeralda-Ivonne-Coba-Ignacio.csproj.AssemblyReference.cache
+C:\Users\jairo\OneDrive\Escritorio\PEA1_Esmeralda-Ivonne-Coba-Ignacio\obj\Debug\PEA1_Esmeralda-Ivonne-Coba-Ignacio.csproj.SuggestedBindingRedirects.cache
+C:\Users\jairo\OneDrive\Escritorio\PEA1_Esmeralda-Ivonne-Coba-Ignacio\obj\Debug\PEA1_Esmeralda_Ivonne_Coba_Ignacio.frmTipoDocumentoEdit.resources
+C:\Users\jairo\OneDrive\Escritorio\PEA1_Esmeralda-Ivonne-Coba-Ignacio\obj\Debug\PEA1_Esmeralda_Ivonne_Coba_Ignacio.frmTipoDocumento.resources
+C:\Users\jairo\OneDrive\Escritorio\PEA1_Esmeralda-Ivonne-Coba-Ignacio\obj\Debug\PEA1_Esmeralda_Ivonne_Coba_Ignacio.Properties.Resources.resources
+C:\Users\jairo\OneDrive\Escritorio\PEA1_Esmeralda-Ivonne-Coba-Ignacio\obj\Debug\PEA1_Esmeralda-Ivonne-Coba-Ignacio.csproj.GenerateResource.cache
+C:\Users\jairo\OneDrive\Escritorio\PEA1_Esmeralda-Ivonne-Coba-Ignacio\obj\Debug\PEA1_Esmeralda-Ivonne-Coba-Ignacio.csproj.CoreCompileInputs.cache
+C:\Users\jairo\OneDrive\Escritorio\PEA1_Esmeralda-Ivonne-Coba-Ignacio\obj\Debug\PEA1_Esmeralda-Ivonne-Coba-Ignacio.exe
+C:\Users\jairo\OneDrive\Escritorio\PEA1_Esmeralda-Ivonne-Coba-Ignacio\obj\Debug\PEA1_Esmeralda-Ivonne-Coba-Ignacio.pdb
